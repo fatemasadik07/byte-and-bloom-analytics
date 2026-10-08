@@ -1,5 +1,7 @@
 <div align="center">
+  
 # 🌸 Byte & Bloom Analytics
+  
 ### *E-Commerce Data Pipeline, SQL Modeling & Interactive Dashboard*
 
 [![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=333333)](#)
@@ -10,6 +12,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-E0BBE4?style=for-the-badge)](#)
 
 *Building clean data pipelines, relational schemas, and dynamic visual dashboards from 100k+ Brazilian e-commerce transactions.*
+
 </div>
 
 ---
